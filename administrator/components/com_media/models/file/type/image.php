@@ -48,7 +48,8 @@ class MediaModelFileTypeImage extends MediaModelFileTypeDefault implements Media
 	 */
 	protected $mimeTypes = array(
 		'image/png',
-		'image/gif' . 'image/x-icon',
+		'image/gif',
+		'image/x-icon',
 		'image/jpeg',
 		'image/bmp',
 		'image/xcf',
